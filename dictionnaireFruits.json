@@ -1,0 +1,32 @@
+{
+  "clé1": {
+    "fruit1": "pomme",
+    "légume4": "brocoli"
+  },
+  "clé2": {
+    "légume1": "carotte",
+    "fruit5": "banane",
+    "légume3": "courgette"
+  },
+  "clé3": {
+    "niveau1": {
+      "niveau2": {
+        "fruit3": "orange",
+        "légume5": "aubergine",
+        "fruit5": "mangue"
+      }
+    }
+  },
+  "clé4": {
+    "niveau1": {
+      "niveau2": {
+        "niveau3": {
+          "fruit6": "raisin",
+          "fruit7": "fraise",
+          "légume4": "poivron",
+          "fruit2": "pastèque"
+        }
+      }
+    }
+  }
+}
