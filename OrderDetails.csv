@@ -1,4 +1,4 @@
-ID Détail Commande,ID Commande,ID Produit,Quantité
+IDDetailCommande,IDCommande,IDProduit,Quantite
 1,10248,11,12
 2,10248,42,10
 3,10248,72,5
@@ -516,4 +516,5 @@ ID Détail Commande,ID Commande,ID Produit,Quantité
 515,10442,54,80
 516,10442,66,60
 517,10443,11,6
+
 518,10443,28,12
