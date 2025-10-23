@@ -1,0 +1,13 @@
+zone_id,nom_zone,niveau_acces
+Z01,Réception et Espaces Communs,1
+Z02,Bureaux Administration,2
+Z03,Laboratoires de Développement,3
+Z04,Salle des Serveurs (Niveau 1),4
+Z05,Salle des Serveurs (Niveau 2),5
+Z06,Archives Sécurisées,3
+Z07,Bureau du CEO,4
+Z08,Salle de Réunion Confidentielle,4
+Z09,Centre de Recherche IA Avancée,5
+Z10,Data Center Principal,6
+Z11,Stockage de Prototypes,4
+Z12,Salle des Opérations Réseau,5

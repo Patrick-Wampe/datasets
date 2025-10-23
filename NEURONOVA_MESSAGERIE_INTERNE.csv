@@ -1,0 +1,70 @@
+message_id,id_expediteur,id_destinataire,message,heure
+M001,E05,E06,"Salut Sofia, on fait le point sur le Q4 à 10h ?",2025-10-15 09:00:00
+M002,E06,E05,"Oui Marc, je serai là.",2025-10-15 09:05:00
+M003,E01,E03,"Hugo, as-tu finalisé le rapport ""Project Chimera"" ?",2025-10-15 09:15:00
+M004,E03,E01,"Presque Aris, juste quelques ajustements.",2025-10-15 09:20:00
+M005,E02,E17,"Nicolas, la mise à jour des métriques est prête pour test.",2025-10-15 10:00:00
+M006,E17,E02,"Parfait Lena, je regarde ça.",2025-10-15 10:05:00
+M007,E04,E33,"François, il y a eu une tentative d'accès suspecte.",2025-10-15 10:30:00
+M008,E33,E04,"D'accord Eva, j'enquête.",2025-10-15 10:35:00
+M009,E12,E35,"Romain, la doc DevOps est à jour.",2025-10-15 11:00:00
+M010,E35,E12,"Merci Anne, je jette un oeil.",2025-10-15 11:05:00
+M011,E07,E11,"Lucas, peux-tu vérifier les données d'hier ?",2025-10-15 11:30:00
+M012,E11,E07,"Oui Julien, je m'en occupe.",2025-10-15 11:35:00
+M013,E14,E22,"Chloé, besoin d'aide sur le nouveau composant UI ?",2025-10-15 12:00:00
+M014,E22,E14,"Non Marie, ça avance bien.",2025-10-15 12:05:00
+M015,E15,E25,"Vincent, le nouveau routeur est configuré.",2025-10-15 12:30:00
+M016,E25,E15,"Super Thomas, merci.",2025-10-15 12:35:00
+M017,E18,E30,"Amélie, le projet A est dans les temps.",2025-10-15 13:00:00
+M018,E30,E18,Bonne nouvelle Julie !,2025-10-15 13:05:00
+M019,E20,E37,"Stéphane, pipeline de données déployé.",2025-10-15 13:30:00
+M020,E37,E20,Impeccable Elodie.,2025-10-15 13:35:00
+M021,E02,E01,"Aris, j'ai besoin de vos dernières validations sur le module de détection d'anomalies de Project Chimera avant le déploiement. D'ailleurs avec qui serez vous en réunion avec comme sujet ""Audit Sécurité Project Chimera"" le 15-10-2025 ?",2025-10-15 14:00:00
+M022,E01,E02,"Lena, je n'ai pas le temps, vois ça avec Hugo.",2025-10-15 14:05:00
+M023,E03,E02,"Lena, je suis débordé, je ne peux pas t'aider avec Chimera maintenant.",2025-10-15 14:10:00
+M024,E23,E43,"Thibault, les résultats du modèle ML sont excellents.",2025-10-15 14:30:00
+M025,E43,E23,Vraiment Maxime ? Super !,2025-10-15 14:35:00
+M026,E26,E36,"Laetitia, la campagne marketing est prête.",2025-10-15 15:00:00
+M027,E36,E26,Parfait Audrey.,2025-10-15 15:05:00
+M028,E29,E39,"Benoît, le code est revu.",2025-10-15 15:30:00
+M029,E39,E29,Merci Guillaume.,2025-10-15 15:35:00
+M030,E31,E45,"Olivier, le microservice est en prod.",2025-10-15 16:00:00
+M031,E45,E31,Bien joué Sébastien.,2025-10-15 16:05:00
+M032,E02,E03,"Hugo, as-tu regardé les derniers tests pour Project Chimera ?",2025-10-15 16:30:00
+M033,E03,E02,"Pas encore Lena, je suis sur un autre dossier urgent.",2025-10-15 16:35:00
+M034,E42,E52,"Sophie, le budget est validé.",2025-10-15 17:00:00
+M035,E52,E42,Merci Nathalie.,2025-10-15 17:05:00
+M036,E44,E56,"Émilie, les specs produit sont prêtes.",2025-10-15 17:30:00
+M037,E56,E44,Merci Sandrine.,2025-10-15 17:35:00
+M038,E47,E19,"Alexandre, les tests QA sont bons.",2025-10-15 18:00:00
+M039,E19,E47,Parfait Laurent.,2025-10-15 18:05:00
+M040,E49,E55,"Christophe, la DB est backupée.",2025-10-15 18:30:00
+M041,E55,E49,Nickel Pierre.,2025-10-15 18:35:00
+M042,E50,E62,"Véronique, le rapport est prêt.",2025-10-15 19:00:00
+M043,E62,E50,Merci Charlotte.,2025-10-15 19:05:00
+M044,E51,E59,"Didier, le code est en revue.",2025-10-15 19:30:00
+M045,E59,E51,Je regarde ça Jean.,2025-10-15 19:35:00
+M046,E53,E27,"Jérémie, l'app mobile est stable.",2025-10-15 20:00:00
+M047,E27,E53,Bonne nouvelle Mathieu.,2025-10-15 20:05:00
+M048,E54,E32,"Céline, les résultats de l'analyse sont prometteurs.",2025-10-15 20:30:00
+M049,E32,E54,Intriguant Hélène.,2025-10-15 20:35:00
+M050,E57,E20,"Elodie, le nouveau pipeline est prêt.",2025-10-15 21:00:00
+M051,E20,E57,Parfait Patrick.,2025-10-15 21:05:00
+M052,E58,E09,"David, j'ai les CV pour le poste.",2025-10-15 21:30:00
+M053,E09,E58,Merci Sylvie.,2025-10-15 21:35:00
+M054,E60,E10,"Laura, j'ai fini l'analyse des concurrents.",2025-10-15 22:00:00
+M055,E10,E60,Super Agnès.,2025-10-15 22:05:00
+M056,E61,E31,"Sébastien, l'archi est validée.",2025-10-15 22:30:00
+M057,E31,E61,Merci Gérard.,2025-10-15 22:35:00
+M058,E63,E12,"Anne, le déploiement est OK.",2025-10-15 23:00:00
+M059,E12,E63,Impeccable Frédéric.,2025-10-15 23:05:00
+M060,E64,E14,"Marie, le nouveau composant est en prod.",2025-10-15 23:30:00
+M061,E14,E64,Bien joué Josiane.,2025-10-15 23:35:00
+M062,E65,E23,"Maxime, le modèle IA tourne parfaitement.",2025-10-16 00:00:00
+M063,E23,E65,Super Alain.,2025-10-16 00:05:00
+M064,E04,E33,"François, une activité réseau anormale vient d'être détectée, c'est grave !",2025-10-16 00:30:00
+M065,E33,E04,"Eva, je suis dessus, ça sent le roussi !",2025-10-16 00:35:00
+M066,E01,E03,"Hugo, le projet Chimera doit être protégé à tout prix, même de nous-mêmes.",2025-10-16 00:45:00
+M067,E03,E01,"J'ai compris Aris, je prends les mesures nécessaires.",2025-10-16 00:50:00
+M068,E02,E01,"Aris, je suis inquiète pour le projet Chimera, avez-vous des nouvelles?",2025-10-16 01:00:00
+M069,E01,E02,"Ne vous inquiétez pas Lena, tout est sous contrôle.",2025-10-16 01:05:00

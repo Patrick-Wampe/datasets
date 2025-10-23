@@ -1,0 +1,66 @@
+employe_id,nom,role
+E01,Dr. Aris Thorne,Architecte en Chef IA
+E02,Lena Moreau,Ingénieure Senior IA
+E03,Hugo Laurent,"Chef de Projet ""Chimera"""
+E04,Eva Rostova,Spécialiste en Cybersécurité
+E05,Marc Dubois,CEO
+E06,Sofia Chen,CTO
+E07,Julien Petit,Data Scientist Junior
+E08,Clara Martin,Développeuse Backend
+E09,David Bernard,Spécialiste RH
+E10,Laura Roy,Manager Marketing
+E11,Lucas Robert,Stagiaire Data Science
+E12,Anne Duval,Ingénieure DevOps
+E13,Paul Lefevre,Data Analyst
+E14,Marie Lambert,Développeuse Frontend
+E15,Thomas Girard,Ingénieur Réseau
+E16,Camille Rousseau,Responsable Produit
+E17,Nicolas Mercier,"Le coupable est le retardataires qui a effectué une action de ""delete"", je crois qu'il a voulu effacer quelque chose..."
+E18,Julie Francois,Chef de Projet
+E19,Alexandre Morin,Ingénieur QA
+E20,Elodie David,Data Engineer
+E21,Antoine Simon,Développeur Full Stack
+E22,Chloé Richard,UX/UI Designer
+E23,Maxime Henry,Ingénieur Machine Learning
+E24,Manon Garcia,Spécialiste Support Technique
+E25,Vincent Petit,Administrateur Système
+E26,Audrey Michel,Responsable Communication
+E27,Jérémie Durand,Développeur Mobile
+E28,Mélanie Leroy,Data Analyst Senior
+E29,Guillaume Moreau,Ingénieur Logiciel
+E30,Amélie Brun,Chef de Produit Junior
+E31,Sébastien Roux,Architecte Cloud
+E32,Céline Blanc,Data Scientist
+E33,François Chevalier,Ingénieur Cybersécurité
+E34,Justine Fontaine,Développeuse Frontend
+E35,Romain Bonnet,Ingénieur DevOps
+E36,Laetitia Gauthier,Spécialiste Marketing Digital
+E37,Stéphane Vincent,Data Engineer
+E38,Valérie Lefort,Responsable RH
+E39,Benoît Masson,Développeur Backend
+E40,Marion Garnier,Data Scientist Junior
+E41,Adrien Leclerc,Stagiaire Ingénieur Logiciel
+E42,Nathalie Perrin,Responsable Financier
+E43,Thibault Faure,Ingénieur Machine Learning
+E44,Sandrine Roussel,Chef de Projet Technique
+E45,Olivier Marchand,Architecte de Données
+E46,Isabelle Hubert,Développeuse Full Stack
+E47,Laurent Meunier,Spécialiste QA
+E48,Caroline Adam,UX Researcher
+E49,Pierre Dufour,Administrateur Base de Données
+E50,Charlotte Remy,Data Analyst
+E51,Jean Roger,Ingénieur Logiciel
+E52,Sophie Lemoine,Responsable Partenariats
+E53,Mathieu Carpentier,Développeur Mobile
+E54,Hélène Le Gall,Data Scientist
+E55,Christophe Colin,Ingénieur Réseau et Sécurité
+E56,Émilie Brunet,Chef de Produit
+E57,Patrick Philippe,Data Engineer
+E58,Sylvie Andre,Recruteuse Technique
+E59,Didier Chevalier,Développeur Backend Senior
+E60,Agnès Lambert,Stagiaire Marketing
+E61,Gérard Martin,Architecte Logiciel
+E62,Véronique Schmitt,Data Analyst
+E63,Frédéric Albert,Ingénieur DevOps
+E64,Josiane Colin,Développeuse Frontend
+E65,Alain Aubert,Ingénieur en Intelligence Artificielle

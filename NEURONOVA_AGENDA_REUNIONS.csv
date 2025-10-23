@@ -1,0 +1,36 @@
+reunion_id,employe_id,zone_id,sujet,heure_planifiee
+R001,E05,Z07,Réunion stratégique Q4,2025-10-15 09:00:00
+R002,E06,Z08,Point technique Project Alpha,2025-10-15 10:00:00
+R003,E03,Z03,Avancement Project Chimera,2025-10-15 11:00:00
+R004,E04,Z02,Audit de sécurité interne,2025-10-15 11:30:00
+R005,E02,Z03,Revue de code module IA,2025-10-15 12:00:00
+R006,E10,Z01,Brainstorming campagne marketing,2025-10-15 13:00:00
+R007,E16,Z02,Planification produit Q1 2026,2025-10-15 14:00:00
+R008,E17,Z03,Analyse des métriques clients,2025-10-15 14:30:00
+R009,E21,Z03,Sync sur l'API d'intégration,2025-10-15 15:00:00
+R010,E23,Z09,Expérimentation modèle de prédiction,2025-10-15 15:30:00
+R011,E28,Z03,Présentation des rapports data,2025-10-15 16:00:00
+R012,E31,Z04,Maintenance infrastructure cloud,2025-10-15 16:30:00
+R013,E33,Z12,Réunion équipe sécurité réseau,2025-10-15 17:00:00
+R014,E38,Z02,Entretien annuel RH,2025-10-15 17:30:00
+R015,E42,Z07,Budget prévisionnel 2026,2025-10-15 18:00:00
+R016,E44,Z08,Avancement projet technique,2025-10-15 18:30:00
+R017,E45,Z09,Architecture base de données,2025-10-15 19:00:00
+R018,E49,Z05,Supervision serveurs critiques,2025-10-15 19:30:00
+R019,E51,Z03,Debugging module logiciel,2025-10-15 20:00:00
+R020,E53,Z03,Point développement app mobile,2025-10-15 20:30:00
+R021,E55,Z04,Mise à jour sécurité réseau,2025-10-15 21:00:00
+R022,E57,Z03,Optimisation flux de données,2025-10-15 21:30:00
+R023,E59,Z03,Refactorisation backend,2025-10-15 22:00:00
+R024,E61,Z09,Définition architecture IA,2025-10-15 22:30:00
+R025,E63,Z04,Déploiement hotfix,2025-10-15 23:00:00
+R026,E01,Z10,"Audit Sécurité Project Chimera : Je n'en peux plus de travailler sur un projet qui pourrait mener le monde à sa perte, je me fais Hara-kiri",2025-10-15 23:59:00
+R027,E02,Z03,Séance de travail tardive,2025-10-16 00:30:00
+R028,E04,Z12,Surveillance post-incident,2025-10-16 01:00:00
+R029,E03,Z03,Suivi urgence Chimera,2025-10-16 01:30:00
+R030,E01,Z07,Point confidentiel du matin,2025-10-16 08:00:00
+R031,E05,Z08,Debrief du jour,2025-10-16 09:00:00
+R032,E06,Z03,Priorités de développement,2025-10-16 09:30:00
+R033,E12,Z03,Rétrospective sprint,2025-10-16 10:00:00
+R034,E15,Z04,Check réseau,2025-10-16 10:30:00
+R035,E20,Z03,Synchronisation Data Engineering,2025-10-16 11:00:00
